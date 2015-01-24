@@ -3,3 +3,5 @@
 *.output
 *.yacc.h
 tc
+*.o
+*.a

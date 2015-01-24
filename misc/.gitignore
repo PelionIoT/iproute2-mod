@@ -5,3 +5,4 @@ ssfilter.c
 nstat
 lnstat
 rtacct
+*.o
